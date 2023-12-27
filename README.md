@@ -1,5 +1,3 @@
-# Swati Nerkar
-
 ## Hi there 👋
 
 I'm a passionate software tester with a keen interest in new technologies. I have 11+ years of experience and my journey in the tech world has been filled with exciting projects and continuous learning.
