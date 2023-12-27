@@ -24,9 +24,9 @@ I'm a passionate software tester with a keen interest in new technologies. I hav
 
 ### 📂 Check Out My Repositories
 
-- [selenium demo project]([Selenium Repo](https://github.com/swatinerkar/selenium-testng-demo-project))
-- [appium demo project][(Appium Repo](https://github.com/swatinerkar/appium-testng-project))
-- [api demo project]([API Repo](https://github.com/swatinerkar/API_RestAssured))
+- [selenium demo project](https://github.com/swatinerkar/selenium-testng-demo-project)
+- [appium demo project](https://github.com/swatinerkar/appium-testng-project)
+- [api demo project](https://github.com/swatinerkar/API_RestAssured)
 
 ### 🎯 Future Goals
 
